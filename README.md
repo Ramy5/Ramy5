@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ramy5)
-[![GitHub stars](https://img.shields.io/github/stars/Rzmy5/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ramy5?tab=stars)
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-![Profile views](https://gpvc.arturio.dev/Naereen)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ramy5?tab=followers)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramy5&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
