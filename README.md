@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my page! <br>
+I'm Ramy, Frontend developer from  Al-Dakahlia, Egype.
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ramy5)
 [![GitHub followers](https://img.shields.io/github/followers/Ramy5.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ramy5?tab=followers)
