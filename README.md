@@ -19,7 +19,9 @@ I'm Ramy, Frontend developer from  Al-Dakahlia, Egypt.
 
 📫 How to reach me: ramyjounior464@gmail.com <br> 📫 How to reach me: https://www.facebook.com/profile.php?id=100008124648610
 
-- 🌱 I’m currently learning React js
+🌱 I’m currently learning:<br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ <br>
+ 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ramy5)
 [![GitHub followers](https://img.shields.io/github/followers/Ramy5.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ramy5?tab=followers)
 
