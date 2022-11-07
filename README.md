@@ -29,7 +29,7 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  <br><br>
 
- ## My favorite projects 💻
+ ## 💻 My favorite projects
  <div>
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/200301531-0f7d5940-6b85-4272-b6df-a3b4a0f8ec17.png" alt="Favorite">
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/200301199-4668bf49-d62e-41c7-b19c-c72aaad104e8.png" alt="Favorite">
