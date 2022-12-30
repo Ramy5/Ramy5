@@ -35,12 +35,11 @@
 
  ## 💻 My favorite projects
  <div>
+   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/210080337-a5c639af-efb6-4461-8dc7-ae4d672f9242.png" alt="Favorite">
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/200301531-0f7d5940-6b85-4272-b6df-a3b4a0f8ec17.png" alt="Favorite">
-  <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/200301199-4668bf49-d62e-41c7-b19c-c72aaad104e8.png" alt="Favorite">
  </div>
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Mapty_App-Clone&theme=github_dark)](https://github.com/Ramy5/Mapty_App-Clone)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Banklist-clone&theme=github_dark)](https://github.com/Ramy5/Banklist-Clone)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramy5&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramy5&theme=chartreuse-dark&layout=compact)](https://github.com/Ramy5)
