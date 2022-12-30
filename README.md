@@ -35,7 +35,7 @@
 
  ## 💻 My favorite projects
  <div>
-   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/210080337-a5c639af-efb6-4461-8dc7-ae4d672f9242.png" alt="Favorite">
+  <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/210080337-a5c639af-efb6-4461-8dc7-ae4d672f9242.png" alt="Favorite">
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/200301531-0f7d5940-6b85-4272-b6df-a3b4a0f8ec17.png" alt="Favorite">
  </div>
 
