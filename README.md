@@ -39,7 +39,7 @@
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/200301531-0f7d5940-6b85-4272-b6df-a3b4a0f8ec17.png" alt="Favorite">
  </div>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=forkify-app&theme=github_dark)](https://github.com/Ramy5/forkify-app)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Forkify-App&theme=github_dark)](https://github.com/Ramy5/forkify-app)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Mapty_App-Clone&theme=github_dark)](https://github.com/Ramy5/Mapty_App-Clone)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramy5&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
