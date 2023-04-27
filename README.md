@@ -43,17 +43,17 @@
  ## 💻 My favorite projects
  <div>
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/232224459-ba22a7ec-e0bf-43df-ac57-fbba2c924ea9.png" alt="Favorite">
-  <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/232223906-3e93f02d-01d9-4cb9-8e0d-3a960d64d053.png" alt="Favorite">
+  <img style="width: 400px; margin: auto" src="https://user-images.githubusercontent.com/74501165/234903328-634ce5ca-589e-4b7b-a38f-1135de5f3f0b.png" alt="Favorite">
  </div>
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Forkify-App&theme=github_dark)](https://github.com/Ramy5/forkify-app)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Natours-clone&theme=github_dark)](https://github.com/Ramy5/Natours-clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=IMDb-Clone&theme=github_dark)](https://github.com/Ramy5/IMDb-Clone)
  
  <div>
-  <img style="width: 400px; margin: auto" src="https://user-images.githubusercontent.com/74501165/234903328-634ce5ca-589e-4b7b-a38f-1135de5f3f0b.png" alt="Favorite">
+  <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/232223906-3e93f02d-01d9-4cb9-8e0d-3a960d64d053.png" alt="Favorite">
  </div>
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=IMDb-Clone&theme=github_dark)](https://github.com/Ramy5/IMDb-Clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Natours-clone&theme=github_dark)](https://github.com/Ramy5/Natours-clone)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramy5&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramy5&theme=chartreuse-dark&layout=compact)](https://github.com/Ramy5)
