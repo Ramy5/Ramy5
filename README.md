@@ -50,9 +50,11 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=IMDb-Clone&theme=github_dark)](https://github.com/Ramy5/IMDb-Clone)
  
  <div>
+  <img style="width: 400px" src="https://github.com/Ramy5/Google-Clone/assets/74501165/988dafa0-e045-447b-9a09-46bb989766ef" alt="Favorite">
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/232223906-3e93f02d-01d9-4cb9-8e0d-3a960d64d053.png" alt="Favorite">
  </div>
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Google-Clone&theme=github_dark)](https://github.com/Ramy5/Google-Clone)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Natours-clone&theme=github_dark)](https://github.com/Ramy5/Natours-clone)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramy5&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
