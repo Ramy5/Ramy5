@@ -45,6 +45,14 @@
 
  ## 💻 My favorite projects
  <div>
+  <img style="width: 400px" src="https://github.com/Ramy5/Ramy5/assets/74501165/d59926f1-cc5d-41d2-939f-f66ba4ccf47e" alt="Favorite">
+  <img style="width: 400px" src="https://github.com/Ramy5/Ramy5/assets/74501165/b3fcf634-b3f3-42de-94b1-480e2f41b3ac" alt="Favorite">
+ </div>
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=my-portfolio&theme=github_dark)](https://github.com/Ramy5/my-portfolio)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=comfy-store&theme=github_dark)](https://github.com/Ramy5/comfy-store)
+
+ <div>
   <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/232224459-ba22a7ec-e0bf-43df-ac57-fbba2c924ea9.png" alt="Favorite">
   <img style="width: 400px; margin: auto" src="https://user-images.githubusercontent.com/74501165/234903328-634ce5ca-589e-4b7b-a38f-1135de5f3f0b.png" alt="Favorite">
  </div>
