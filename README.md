@@ -34,6 +34,7 @@
  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+ ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -62,11 +63,11 @@
  
  <div>
   <img style="width: 400px" src="https://github.com/Ramy5/Google-Clone/assets/74501165/988dafa0-e045-447b-9a09-46bb989766ef" alt="Favorite">
-  <img style="width: 400px" src="https://user-images.githubusercontent.com/74501165/232223906-3e93f02d-01d9-4cb9-8e0d-3a960d64d053.png" alt="Favorite">
+  <img style="width: 400px" src="https://github.com/Ramy5/Jobster-clone/assets/74501165/69dd4bc4-5d9b-40b3-a08b-b41aeb7a3396" alt="Favorite">
  </div>
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Google-Clone&theme=github_dark)](https://github.com/Ramy5/Google-Clone)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Natours-clone&theme=github_dark)](https://github.com/Ramy5/Natours-clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=Jobster-clone&theme=github_dark)](https://github.com/Ramy5/Jobster-clone)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramy5&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramy5&theme=chartreuse-dark&layout=compact)](https://github.com/Ramy5)
