@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://ramy-portfolio.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-  <a href="https://www.linkedin.com/in/ramy-al-sabry-98637b202/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/ramy5/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://codepen.io/ramy5" target="_blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
   <a href="https://www.facebook.com/profile.php?id=100008124648610" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
   <a href="https://twitter.com/RamySabry511" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
@@ -14,7 +14,7 @@
  
  </div>
  <h4 align="center">Welcome to my page!<br>
- I'm Ramy, a Frontend developer since 2020 from  Al-Dakahlia, Egypt.</h4>
+ I'm Ramy, a Frontend developer since 2020 from Al-Dakahlia, Egypt.</h4>
  <br>
 
  ## 💼 Languages and Tools<br>
@@ -42,6 +42,7 @@
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+ ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
  <br><br>
 
  ## 💻 My favorite projects
