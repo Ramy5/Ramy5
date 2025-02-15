@@ -45,6 +45,10 @@
  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
  <br><br>
 
+  <img style="width: 800px" src="https://wakatime.com/share/@f07942ee-9911-4106-826c-a778fbf28756/c62d970f-7339-430a-a0b6-24d280190327.svg" />
+
+ <img style="width: 800px" src="https://wakatime.com/share/@f07942ee-9911-4106-826c-a778fbf28756/34c2c4ac-f04e-4a2d-b01f-0f24e8a87bc2.svg" />
+
  ## 💻 My favorite projects
  <div>
   <img style="width: 400px" src="https://github.com/Ramy5/Ramy5/assets/74501165/d59926f1-cc5d-41d2-939f-f66ba4ccf47e" alt="Favorite">
