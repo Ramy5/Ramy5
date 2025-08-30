@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://ramy-portfolio.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+  <a href="https://ramy-portfolio5.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
   <a href="https://www.linkedin.com/in/ramy5/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://codepen.io/ramy5" target="_blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
   <a href="https://www.facebook.com/profile.php?id=100008124648610" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
@@ -51,11 +51,11 @@
 
  ## 💻 My favorite projects
  <div>
-  <img style="width: 400px" src="https://github.com/Ramy5/Ramy5/assets/74501165/d59926f1-cc5d-41d2-939f-f66ba4ccf47e" alt="Favorite">
+  <img style="width: 400px" src="https://github.com/user-attachments/assets/42debcc8-c49a-456e-923d-bad44c87a879" alt="Favorite">
   <img style="width: 400px" src="https://github.com/Ramy5/Ramy5/assets/74501165/b3fcf634-b3f3-42de-94b1-480e2f41b3ac" alt="Favorite">
  </div>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=my-portfolio&theme=github_dark)](https://github.com/Ramy5/my-portfolio)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=my-portfolio&theme=github_dark)](https://github.com/Ramy5/portfolio)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramy5&repo=comfy-store&theme=github_dark)](https://github.com/Ramy5/comfy-store)
 
  <div>
